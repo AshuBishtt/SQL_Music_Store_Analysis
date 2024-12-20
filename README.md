@@ -10,7 +10,7 @@ In this project, I analyzed the dataset of a Digital Music Store to answer a set
 
 ## Schema- Music Store Database
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot 2024-12-20 113646](https://github.com/user-attachments/assets/cd8b1b81-38fa-45a9-baa5-ba847760d26b)
 
 
 ## INSIGHTS:
